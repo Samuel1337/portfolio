@@ -1155,6 +1155,7 @@ input, select, textarea {
 	}
 
 	#bg-img {
+			width: 100%;
 			object-fit: fill;
 		}
 

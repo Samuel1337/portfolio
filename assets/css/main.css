@@ -1154,6 +1154,10 @@ input, select, textarea {
 		z-index: 1;
 	}
 
+	#bg-img {
+			object-fit: fill;
+		}
+
 		#bg:before, #bg:after {
 			content: '';
 			display: block;

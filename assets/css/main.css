@@ -1155,8 +1155,10 @@ input, select, textarea {
 	}
 
 	#bg-img {
+			height: 130%;
 			width: 100%;
-			object-fit: fill;
+			overflow: hidden;
+			object-fit: cover;
 		}
 
 		#bg:before, #bg:after {
